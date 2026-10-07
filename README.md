@@ -93,3 +93,7 @@ This project is open source and available under the MIT License.
 ---
 
 Built with ❤️ by [Scarface96](https://github.com/Scarface96)
+
+## About This Project
+
+A responsive HTML and CSS form project focused on collecting structured user information. It demonstrates semantic form controls, input types, validation attributes, responsive layout and accessible interface fundamentals.
